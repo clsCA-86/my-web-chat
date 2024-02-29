@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/clsCA-86/my-web-chat/issues"
   },
-  "homepage": "https://github.com/clsCA-86/my-web-chat#readme"
+  "homepage": "https://github.com/clsCA-86/my-web-chat#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "ws": "^8.16.0"
+  }
 }
