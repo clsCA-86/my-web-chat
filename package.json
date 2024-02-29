@@ -1,0 +1,24 @@
+{
+  "name": "my-web-chat",
+  "version": "1.0.0",
+  "description": "CLS Chat will update description soon",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clsCA-86/my-web-chat.git"
+  },
+  "keywords": [
+    "chat",
+    "colab",
+    "cls"
+  ],
+  "author": "Christopher Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clsCA-86/my-web-chat/issues"
+  },
+  "homepage": "https://github.com/clsCA-86/my-web-chat#readme"
+}
