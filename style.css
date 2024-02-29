@@ -1,0 +1,23 @@
+/**
+ * Styles for the chat container, chat window, and message form.
+ *
+ * #chat-container is the outer container for the chat UI. It sets a fixed width and centers the chat.
+ * 
+ * #chat-window is the scrollable area that contains the chat messages. It sets a fixed height and enables scrolling when the messages exceed that height.
+ *
+ * #message-form contains the UI for sending new messages. It has some padding for spacing.
+ */
+#chat-container {
+    width: 500px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+}
+
+#chat-window {
+    height: 300px;
+    overflow-y: auto;
+}
+
+#message-form {
+    padding: 10px;
+}
